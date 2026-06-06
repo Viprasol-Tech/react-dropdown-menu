@@ -1,7 +1,7 @@
 {
   "name": "react-dropdown-menu",
-  "version": "0.1.0",
-  "description": "Accessible dropdown menu component for React with keyboard nav.",
+  "version": "0.2.0",
+  "description": "Accessible dropdown menu component for React: submenus, checkbox/radio items, type-ahead, controlled state, full ARIA menu pattern.",
   "type": "module",
   "license": "MIT",
   "author": "Viprasol Tech Private Limited",
@@ -26,7 +26,13 @@
     "accessible",
     "aria",
     "typescript",
-    "ui-components"
+    "ui-components",
+    "submenu",
+    "context-menu",
+    "type-ahead",
+    "keyboard-navigation",
+    "checkbox-menu",
+    "radio-menu"
   ],
   "scripts": {
     "build": "tsc",
